@@ -22,6 +22,7 @@ public class TryandCatch {
 		}
 		finally {
 		System.out.println("Thank you!");
+		System.out.println("...");
 		}
 	}
 
