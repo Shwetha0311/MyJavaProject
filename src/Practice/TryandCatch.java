@@ -22,7 +22,7 @@ public class TryandCatch {
 		}
 		finally {
 		System.out.println("Thank you!");
-		System.out.println("...");
+		System.out.println("bye");
 		}
 	}
 
